@@ -7,7 +7,7 @@ on:
       - main
 
 jobs:
-  biome-lint:
+  biome-check:
     runs-on: ubuntu-latest
 
     steps:
